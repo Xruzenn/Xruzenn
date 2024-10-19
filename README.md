@@ -67,8 +67,8 @@
 
 <h3 align="left">My GitHub Stats</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/Stars-103-yellow" alt="Stars"/>
-    <img src="https://img.shields.io/badge/Forks-42-blue" alt="Forks"/>
+    <img src="https://img.shields.io/badge/Stars-1687-yellow" alt="Stars"/>
+    <img src="https://img.shields.io/badge/Forks-141-blue" alt="Forks"/>
     <img src="https://img.shields.io/badge/Commits-23872-orange" alt="Commits"/>
 </p>
 

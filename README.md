@@ -61,11 +61,15 @@
     </a>
 </p>
 
+
+- 👑 Custom stats of my main git **Hacker Alert**
+
+
 <h3 align="left">My GitHub Stats</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/Stars-103-yellow" alt="Stars"/>
     <img src="https://img.shields.io/badge/Forks-42-blue" alt="Forks"/>
-    <img src="https://img.shields.io/badge/Commits-893-orange" alt="Commits"/>
+    <img src="https://img.shields.io/badge/Commits-23872-orange" alt="Commits"/>
 </p>
 
 <h3 align="left">Most Used Languages</h3>

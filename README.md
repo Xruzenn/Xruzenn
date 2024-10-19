@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lynxar</h1>
 <h3 align="center">Xruzenn Dump "THE NEXT PRODIGY"</h3>
+<h3 align="center">will soon pulic my main github, dump files/trash will be put here :></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xruzenn&label=Profile%20views&color=0e75b6&style=flat" alt="xruzenn" /> </p>
 

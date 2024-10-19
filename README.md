@@ -63,6 +63,7 @@
 
 
 - 👑 Custom stats of my main git **Hacker Alert**
+- ❌ Lacking detailed info, practicing on integrating data from accounts
 
 
 <h3 align="left">My GitHub Stats</h3>

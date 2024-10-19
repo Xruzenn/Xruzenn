@@ -62,7 +62,7 @@
 </p>
 
 
-- 👑 Custom stats of my main git **Hacker Alert**
+- 👑 Custom stats of my main git "**Hacker Alert**"
 - ❌ Lacking detailed info, practicing on integrating data from accounts
 
 

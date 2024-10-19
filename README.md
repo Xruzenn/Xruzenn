@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lynxar</h1>
 <h3 align="center">Xruzenn Dump "THE NEXT PRODIGY"</h3>
 <h3 align="center">will soon pulic my main github, dump files/trash will be put here :></h3>
-![Shionji Yuuko](Bildergebnis%20fuer%20Shionji%20yuuko%20gif.gif =400x)
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
+
 
 
 

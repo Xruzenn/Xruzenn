@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/originals/c7/66/a2/c766a23bfdc8d43d4b7e5b0fe15b7f5f.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lynxar</h1>
 <h3 align="center">Xruzenn Dump "THE NEXT PRODIGY"</h3>
 <h3 align="center">will soon pulic my main github, dump files/trash will be put here :></h3>

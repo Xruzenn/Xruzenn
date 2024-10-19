@@ -1,8 +1,13 @@
-[![MasterHead](https://i.pinimg.com/originals/c7/66/a2/c766a23bfdc8d43d4b7e5b0fe15b7f5f.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Lynxar</h1>
-<h3 align="center">Xruzenn Dump "THE NEXT PRODIGY"</h3>
-<h3 align="center">will soon pulic my main github, dump files/trash will be put here :></h3>
+<p align="center">
+    <a href="https://rishavchanda.io">
+        <img src="https://i.pinimg.com/originals/c7/66/a2/c766a23bfdc8d43d4b7e5b0fe15b7f5f.gif" alt="MasterHead"/>
+    </a>
+</p>
+<h1 align="center">Lynxar Here</h1>
+<h3 align="center">Dev|Xruzen Dump "MISS NA KITA"</h3>
+<h3 align="center">Dump Files & Proposal Projects only :> </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
+
 
 
 

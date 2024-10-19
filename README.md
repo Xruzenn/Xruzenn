@@ -4,7 +4,7 @@
     </a>
 </p>
 <h1 align="center">Zen is not Here</h1>
-<h3 align="center">Dev|Xruzen Dump "MISMO?"</h3>
+<h3 align="center">Dev| Xruzen Dump "MISMO?"</h3>
 <h3 align="center">Dump Files & Proposal Projects only :> </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
 

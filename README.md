@@ -62,15 +62,15 @@
 </p>
 
 
-- 👑 Custom stats of my main git "**Hacker Alert**"
+- 👑 Custom stats of my main git "**BUG ASF**"
 - ❌ Lacking detailed info, practicing on integrating data from accounts
 
 
 <h3 align="left">My GitHub Stats</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/Stars-1687-yellow" alt="Stars"/>
-    <img src="https://img.shields.io/badge/Forks-141-blue" alt="Forks"/>
-    <img src="https://img.shields.io/badge/Commits-23872-orange" alt="Commits"/>
+    <img src="https://img.shields.io/badge/Stars-4-yellow" alt="Stars"/>
+    <img src="https://img.shields.io/badge/Forks-14-blue" alt="Forks"/>
+    <img src="https://img.shields.io/badge/Commits-2872-orange" alt="Commits"/>
 </p>
 
 <h3 align="left">Most Used Languages</h3>

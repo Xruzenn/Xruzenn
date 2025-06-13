@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xruzenn&label=Profile%20views&color=0e75b6&style=flat" alt="xruzenn" /> </p>
 
-- 🔭 I’m currently working on **Lynxfi**
+- 🔭 I’m currently working on **Global Scraper**
 - ⚡ Fun fact **I'm good at it**
 
 <h3 align="left">Connect with me:</h3>
